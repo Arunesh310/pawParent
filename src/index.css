@@ -1,0 +1,19 @@
+
+  padding: 10px;
+}
+
+.logo {
+  max-width: 100px; 
+  cursor: pointer; 
+}
+
+
+.taskbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.taskbar a:hover {
+  text-decoration: underline;
+} */
